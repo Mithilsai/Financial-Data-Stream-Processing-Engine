@@ -40,8 +40,8 @@ This project is a Python-based simulation of a real-time financial data stream p
 
 Below is the UML class diagram illustrating the main components and their relationships within the system.
 
-![UML Class Diagram](./docs/images/uml_class_diagram.png)
-*(If the image is in the root directory, use: ![UML Class Diagram](./uml_class_diagram.png))*
+![UML Class Diagram](./uml.png)
+
 
 ## Prerequisites
 
